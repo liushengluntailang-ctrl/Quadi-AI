@@ -36,7 +36,7 @@ Most modern 3D generative models (e.g., TripoSR, Meshy) output monolithic "melte
 
 ### ⚡ Quick Start
 ```bash
-git clone https://github.com/your-username/quadi-ai.git
+git clone https://github.com/liushengluntailang-ctrl/Quadi-AI.git
 cd quadi-ai
 pip install -r requirements.txt
 python examples/run_soldier.py
@@ -58,7 +58,7 @@ python examples/run_soldier.py
 
 ### ⚡ 快速开始
 ```bash
-git clone https://github.com/your-username/quadi-ai.git
+git clone https://github.com/liushengluntailang-ctrl/Quadi-AI.git
 cd quadi-ai
 pip install -r requirements.txt
 python examples/run_soldier.py
@@ -80,7 +80,7 @@ python examples/run_soldier.py
 
 ### ⚡ クイックスタート
 ```bash
-git clone https://github.com/your-username/quadi-ai.git
+git clone https://github.com/liushengluntailang-ctrl/Quadi-AI.git
 cd quadi-ai
 pip install -r requirements.txt
 python examples/run_soldier.py
