@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "quadi-ai"
+version = "0.1.0"
+authors = [
+  { name="Quadi AI Team" },
+]
+description = "Next-Generation 3D Asset Generation Pipeline: Quad-Mesh First, Hierarchical Assembly, and Built-in Animation."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: POSIX :: Linux",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Multimedia :: Graphics :: 3D Modeling",
+]
+dependencies = [
+    "torch>=2.1.0",
+    "diffusers>=0.30.0",
+    "transformers>=4.40.0",
+    "accelerate>=0.30.0",
+    "trimesh>=4.0.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/your-username/quadi-ai"
